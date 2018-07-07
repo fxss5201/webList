@@ -1,2 +1,2 @@
 # webList
-前端知识点总结
+[web知识点总结](https://github.com/fxss5201/webList/wiki)

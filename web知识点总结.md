@@ -14,4 +14,5 @@
 * [设计](https://github.com/fxss5201/webList/wiki/%E8%AE%BE%E8%AE%A1)
 * [网络通信协议](https://github.com/fxss5201/webList/wiki/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE)
 * [VR](https://github.com/fxss5201/webList/wiki/VR)
+* [SQL](https://github.com/fxss5201/webList/wiki/SQL)
 * [java](https://github.com/fxss5201/webList/wiki/java)

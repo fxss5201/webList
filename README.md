@@ -18,3 +18,4 @@
 * [VR](https://github.com/fxss5201/webList/wiki/VR)
 * [SQL](https://github.com/fxss5201/webList/wiki/SQL)
 * [Java](https://github.com/fxss5201/webList/wiki/Java)
+* [视频教程](https://github.com/fxss5201/webList/wiki/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)

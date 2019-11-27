@@ -4,6 +4,7 @@
 * [CSS](https://github.com/fxss5201/webList/wiki/CSS)
 * [JavaScript](https://github.com/fxss5201/webList/wiki/JavaScript)
 * [node](https://github.com/fxss5201/webList/wiki/node)
+* [Nginx](https://github.com/fxss5201/webList/wiki/Nginx)
 * [代码规范](https://github.com/fxss5201/webList/wiki/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 * [框架](https://github.com/fxss5201/webList/wiki/%E6%A1%86%E6%9E%B6)
 * [插件](https://github.com/fxss5201/webList/wiki/%E6%8F%92%E4%BB%B6)
